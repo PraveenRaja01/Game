@@ -1,0 +1,32 @@
+# Unity Generated Files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Auto-generated VS/VSCode files
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# Crashlytics generated files
+crashlytics-build.properties
+
+# Ignore Unity Package Manager temporary files
+Packages/manifest.json.meta
+Packages/packages-lock.json
+
+# IDE Files
+.idea/
+*.iml
+*.iws
